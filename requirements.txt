@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+langchain-community
+python-dotenv==1.0.0
+tenacity==8.2.3
+pymysql==1.1.1
+SQLAlchemy==2.0.23
+streamlit
+cryptography
